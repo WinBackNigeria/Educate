@@ -1,4 +1,3 @@
-# Win Back Nigeria
 
 ## How can we get our country back from the hands of iranu / iberibe / [hausa] ;) ?
 
@@ -12,11 +11,11 @@ Based on conversations with “people familiar with the matter” and other rese
 
 As such, we propose a simple 3-part strategy to ensuring that we in the office of the citizen have the tools we need win back our country from the hands of an uncaring, unaccountable political class.
 
-1) Educate the Electorate: The objective here is to ensure that we can grow the awareness and understanding of the salient parts of the Nigerian democratic process by at least an order of magnitude (10x) over the next 18 months.
+* **Educate the Electorate:** The objective here is to ensure that we can grow the awareness and understanding of the salient parts of the Nigerian democratic process by at least an order of magnitude (10x) over the next 18 months.
 
-2) Mobilize the Voters: The objective here is to double voter participation in local, state, and federal elections across the 5 most populous states in Nigeria over the next 18 months.
+* **Mobilize the Voters:** The objective here is to double voter participation in local, state, and federal elections across the 5 most populous states in Nigeria over the next 18 months.
 
-3) Expand the candidate pool: The objective here is to ensure that we provide the needed support to would-be candidates to that would enable them successfully set up their candidacy and run a viable campaign for political office at the local, state and federal levels.
+* **Expand the candidate pool:** The objective here is to ensure that we provide the needed support to would-be candidates to that would enable them successfully set up their candidacy and run a viable campaign for political office at the local, state and federal levels.
 
 In pursuing these objectives the Win Back Nigeria initiative will apply a transparent, data-driven and non-partisan approach to constructing and executing on our plans.
 
