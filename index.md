@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Win Back Nigeria
 
-You can use the [editor on GitHub](https://github.com/WinBackNigeria/Educate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## How can we get our country back from the hands of iranu / iberibe / [hausa] ;) ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our government doesn’t rate us. We’ve learned this repeatedly over the last 6 decades since Nigeria’s independence but it has become more stark to us in the last month as we have seen the ambivalence and subsequent viciousness with which it has responded to our collective demand for accountability in the policing system.
 
-### Markdown
+This event, known now as the #LagosMassacre or the #LekkiMassacre, in which the Nigerian government sent in its security forces to box in and then murder citizens who were exercising their rights to peaceful assembly and protest was undertaken in such a brazen fashion that it became clear to all those who experienced or observed it that this government clearly does not consider itself to be accountable to its citizens.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This begs the question of “why?”. Why does our country and its officials who we supposedly elected into office not consider itself to be accountable to us?
 
-```markdown
-Syntax highlighted code block
+Based on conversations with “people familiar with the matter” and other research, our current idea is that they probably don’t rate us for the simple reason that they don’t need to. The Nigerian electorate is, by and large, disengaged, apathetic and starved for choice. As such, the political class is able to take advantage of the fact that, for example, less than 10% of the population participates in national elections and most of us (myself included) are grossly under informed about the mechanics (the when, where and how) of Nigeria’s democratic process. As such they maintain their power by ensuring that their supporters have the information and incentives to participate in the democratic process and that the majority of us have very few options of candidates to choose from.
 
-# Header 1
-## Header 2
-### Header 3
+As such, we propose a simple 3-part strategy to ensuring that we in the office of the citizen have the tools we need win back our country from the hands of an uncaring, unaccountable political class.
 
-- Bulleted
-- List
+1) Educate the Electorate: The objective here is to ensure that we can grow the awareness and understanding of the salient parts of the Nigerian democratic process by at least an order of magnitude (10x) over the next 18 months.
 
-1. Numbered
-2. List
+2) Mobilize the Voters: The objective here is to double voter participation in local, state, and federal elections across the 5 most populous states in Nigeria over the next 18 months.
 
-**Bold** and _Italic_ and `Code` text
+3) Expand the candidate pool: The objective here is to ensure that we provide the needed support to would-be candidates to that would enable them successfully set up their candidacy and run a viable campaign for political office at the local, state and federal levels.
 
-[Link](url) and ![Image](src)
-```
+In pursuing these objectives the Win Back Nigeria initiative will apply a transparent, data-driven and non-partisan approach to constructing and executing on our plans.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WinBackNigeria/Educate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Wanna help?]()
