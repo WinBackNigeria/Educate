@@ -1,5 +1,5 @@
 
-## How can we get our country back from the hands of iranu / iberibe / [hausa] ;) ?
+## How can we get our country back from the hands of iranu / iberibe / wawa ;) ?
 
 Our government doesn’t rate us. We’ve learned this repeatedly over the last 6 decades since Nigeria’s independence but it has become more stark to us in the last month as we have seen the ambivalence and subsequent viciousness with which it has responded to our collective demand for accountability in the policing system.
 
